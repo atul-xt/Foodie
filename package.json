@@ -1,0 +1,28 @@
+{
+  "name": "foodie",
+  "version": "1.0.0",
+  "description": "Foodie Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atul-xt/Foodie.git"
+  },
+  "author": "atul-xt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atul-xt/Foodie/issues"
+  },
+  "homepage": "https://github.com/atul-xt/Foodie#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
